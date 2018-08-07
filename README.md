@@ -1,0 +1,1 @@
+# event-grid-debug-function
